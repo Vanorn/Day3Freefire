@@ -15,7 +15,7 @@ print("ต้นทุนราคา",(quantity * cost), "บาท")
 print("รายรับทั้งหมด",(quantity * sell), "บาท")
 
 #margin
-print("กำไรสุทธิ",(quantity * sell) - (quantity * cost), "บาท")
+print("กำไรสุทธิ",(whatgum), "บาท")
 
 #จำนวนเงินที่หักไปให้บอส
 print("จำนวนเงินที่หักไปให้บอส",(whatgum * 1/5), "บาท")
