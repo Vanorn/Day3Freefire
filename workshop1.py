@@ -12,13 +12,13 @@ Ibosshere = ((whatgum * 1/5))
 print("ต้นทุนราคา",(quantity * cost), "บาท")
 
 #sell
-print("รายรับทั้งหมด"(quantity * sell) "บาท")
+print("รายรับทั้งหมด",(quantity * sell), "บาท")
 
 #margin
-print((quantity * sell) - (quantity * cost))
+print("กำไรสุทธิ",(quantity * sell) - (quantity * cost), "บาท")
 
 #จำนวนเงินที่หักไปให้บอส
-print((whatgum * 1/5))
+print("จำนวนเงินที่หักไปให้บอส",(whatgum * 1/5), "บาท")
 
 #จำนวนเงินที่ลูกน้องแต่ละคนได้
-print((whatgum - Ibosshere) / members)
+print("จำนวนเงินที่ลูกน้องแต่ละคนได้",((whatgum - Ibosshere) / members) ,"บาท" )
